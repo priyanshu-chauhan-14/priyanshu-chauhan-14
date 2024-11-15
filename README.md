@@ -5,7 +5,7 @@
 ### ABOUT MY SKILLS
 - 🥳 I have learnt C, PYTHON, HTML, CSS, JAVA, JAVASCRIPT
 - 🌱 I’m currently learning C++
-- - 💞️ I'm open to collaboration on future projects
+- 💞️ I'm open to collaboration on future projects
 ### CONTACT
 - 📫 Reach me at priyanshuchauhan95088@gmail.com
 - 📞 Contact : 9508846420
